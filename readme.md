@@ -1,19 +1,10 @@
-# Clipboard Website
+# Clipboard landing page
 
-Clipboard landing page using Tailwind from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
+Styled with TailwindCSS
+Deployed on [Netlify](warm-tartufo-f48ebd.netlify.app) 
 
-## Usage
+## Desktop & Tablet
+![Design preview for the Clipboard landing page for desktop & tablet](./design/desktop-preview.jpg)
 
-Install dependencies
-
-```
-npm Install
-```
-
-Run Tailwind CLI
-
-```
-npm run watch
-```
-
-![Preview of Desktop Site](images/clipboard.png)
+## Mobile
+![Design preview for the Clipboard landing page for desktop & tablet](./design/mobile-design.jpg)
